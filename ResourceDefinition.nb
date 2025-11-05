@@ -700,11 +700,12 @@ Cell["Basic Examples", "Subsection",
  CellID->816121734,ExpressionUUID->"c597b818-9f71-4ab5-b67f-0b0766b1a1c5"],
 
 Cell["\<\
-Show a few of the examples Latent Semantic Analysis software monad written in \
-Wolfram Language (WL):\
+Show a few of the examples of the Latent Semantic Analysis (LSA) software \
+monad written in Wolfram Language (WL):\
 \>", "Text",
  TaggingRules->{},
- CellChangeTimes->{{3.97129577734734*^9, 3.971295837376978*^9}},
+ CellChangeTimes->{{3.97129577734734*^9, 3.971295837376978*^9}, {
+  3.9712986291311502`*^9, 3.971298633879119*^9}},
  CellID->229276464,ExpressionUUID->"12fccf3d-1d9b-4af2-92a7-02af374ab3b3"],
 
 Cell[CellGroupData[{
@@ -778,11 +779,11 @@ Cell[BoxData[
  CellID->1324185182,ExpressionUUID->"daf2cdc1-5602-47ab-a01f-49af60b91e58"],
 
 Cell["\<\
-Here is a list of natural language commands specifying a Latent Semantic \
-Analysis (LSA) workflow:\
+Here is a list of natural language commands specifying an LSA workflow:\
 \>", "Text",
  TaggingRules->{},
- CellChangeTimes->{{3.9712954341895857`*^9, 3.971295510646572*^9}},
+ CellChangeTimes->{{3.9712954341895857`*^9, 3.971295510646572*^9}, {
+  3.971298645792287*^9, 3.9712986487724237`*^9}},
  CellID->1833992946,ExpressionUUID->"8bc2c309-c1e8-43d3-a6db-10fb607fbda7"],
 
 Cell[BoxData[
@@ -802,7 +803,7 @@ non-negative matrix factorization\>\"", ",",
  CellID->195418249,ExpressionUUID->"ba1035bb-98f8-4952-a82f-2aee17fa8b76"],
 
 Cell[TextData[{
- "Translate those commands -- line by line -- into of monadic pipeline for \
+ "Translate those commands -- line by line -- into of a monadic pipeline for \
 the paclet ",
  ButtonBox["\"AntonAntonov/MonadicLatentSemanticAnalysis\"",
   BaseStyle->"Hyperlink",
@@ -816,7 +817,8 @@ AntonAntonov/MonadicLatentSemanticAnalysis/"],
 }], "Text",
  TaggingRules->{},
  CellChangeTimes->{{3.971295512566348*^9, 3.971295553803976*^9}, {
-  3.971295986747655*^9, 3.9712960200473824`*^9}},
+  3.971295986747655*^9, 3.9712960200473824`*^9}, {3.971298660779353*^9, 
+  3.971298661001277*^9}},
  CellID->454919064,ExpressionUUID->"2cd77049-38f7-46b9-84dd-a62aa882e825"],
 
 Cell[CellGroupData[{
@@ -1439,9 +1441,10 @@ Cell[BoxData[
  TaggingRules->{},
  CellID->1673158655,ExpressionUUID->"e9678810-75bc-43b6-afbf-76ad1025f7eb"],
 
-Cell["Here are all R examples are retrieved:", "Text",
+Cell["Here all R-language DSL examples are retrieved:", "Text",
  TaggingRules->{},
- CellChangeTimes->{{3.971296132483963*^9, 3.971296143795836*^9}},
+ CellChangeTimes->{{3.971296132483963*^9, 3.971296143795836*^9}, {
+  3.971298721488701*^9, 3.971298730664064*^9}},
  CellID->318443052,ExpressionUUID->"7bc9abc7-50ea-463c-afef-a6e24d81e7a6"],
 
 Cell[CellGroupData[{
@@ -17723,8 +17726,8 @@ contexts.", "MoreInfoText"], Background -> GrayLevel[0.95], FrameMargins ->
                    20, FrameStyle -> GrayLevel[0.9], RoundingRadius -> 5, 
                    ImageSize -> {
                     Scaled[0.65], Automatic}]], "MoreInfoText", Deletable -> 
-                 True, 
-                 CellTags -> {"SectionMoreInfoDisclosuresWLSystemSymbols"}, 
+                 True, CellTags -> {
+                  "SectionMoreInfoDisclosuresWLSystemSymbols"}, 
                  CellMargins -> {{66, 66}, {15, 15}}], 
                 HoldComplete[
                  EvaluationCell[]], "Click for more information"}, 
