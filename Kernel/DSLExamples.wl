@@ -9,7 +9,12 @@ Begin["`Private`"];
 
 
 Clear[GetDSLExamples];
-GetDSLExamples[]:=GetDSLExamples[]=GetDSLExamples["https://raw.githubusercontent.com/antononcube/Raku-DSL-Examples/refs/heads/main/resources/dsl-examples.json"];
+GetDSLExamples[] := GetDSLExamples[] =
+Block[{dirName, fileName},
+    dirName = First[PacletFind["AntonAntonov/DSLExamples"]]["Location"];
+    fileName = FileNameJoin[{dirName, "Kernel", "dsl-examples.json"}];
+    GetDSLExamples[fileName]
+];
 GetDSLExamples[url:(_File|_String|_URL)]:=GetDSLExamples[]=Normal@Import[url,"Dataset"];
 
 Clear[DSLExamples];
