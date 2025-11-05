@@ -20,6 +20,7 @@ GetDSLExamples[url:(_File|_String|_URL)]:=GetDSLExamples[]=Normal@Import[url,"Da
 Clear[DSLExamples];
 
 DSLExamples::nlang = "The language value is expected to be All, Automatic, or a string, one of `1`.";
+DSLExamples::unlang = "Unknown programming language `1`.";
 DSLExamples::nwf = "The workflow value is expected to be a All or a string.";
 DSLExamples::unwf = "Unknown workflow `1`.";
 
@@ -34,11 +35,18 @@ DSLExamples[langArg_ : All, workflowArg_ : All] :=
    
    If[TrueQ[lang === Automatic], lang = "WL"];
    If[! (StringQ[lang] || TrueQ[lang === All]),
-    Message[DSLExamples::nlang, "\"" <> StringRiffle[Keys[aExamples], "\", \""] <> "\""]
+     Message[DSLExamples::unlang, "\"" <> StringRiffle[Keys[aExamples], "\", \""] <> "\""];
+     Return[$Failed]
    ];
    
+   If[StringQ[lang] && !KeyExistsQ[aExamples, lang],
+     Message[DSLExamples::unlang, "\"" <> lang <> "\""];
+     Return[None]
+   ];
+
    If[! (StringQ[workflow] || TrueQ[workflow === All]),
-    Message[DSLExamples::nwf]
+     Message[DSLExamples::nwf];
+     Return[$Failed]
    ];
    
    res =
