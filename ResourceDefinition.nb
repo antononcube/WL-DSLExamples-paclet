@@ -36,7 +36,7 @@ Cell["", "FileManagerTopSpacer",
  CellGroupingRules->{"SectionGrouping", 99},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1326389764,ExpressionUUID->"901a6aaf-bd0b-4957-b061-35c6d5b04a37"],
+ CellID->1326389764,ExpressionUUID->"b9f49175-e927-4c30-af70-cb5084db833a"],
 
 Cell[CellGroupData[{
 
@@ -61,7 +61,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"74e716c0-9091-490c-aa70-00d6f7cd9efd"]], \
+   "Text"}]],ExpressionUUID->"79e395ce-a1b4-4ebe-a48a-f6ca111cd6f1"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -72,7 +72,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDocumentationIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1752507688,ExpressionUUID->"dc8bcf9b-61e5-43cf-a20e-4a9bc40e3aa7"],
+ CellID->1752507688,ExpressionUUID->"82f974c6-4fae-49f8-8b81-266daa5d26f0"],
 
 Cell[CellGroupData[{
 
@@ -97,7 +97,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"572e85ba-e41d-4bd9-93ec-09c96febdbb8"]], \
+   "Text"}]],ExpressionUUID->"bfb72dfd-bcc0-4ceb-8f42-d62c52d0c88b"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -108,7 +108,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->385091865,ExpressionUUID->"917a1bdb-0dee-45fa-a88a-6f4b4b1fb5c0"],
+ CellID->385091865,ExpressionUUID->"0961a444-f5fc-44fd-b243-601521e3945f"],
 
 Cell[TextData[Cell[BoxData[
  InterpretationBox[
@@ -131,7 +131,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Guides"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"39fac7b8-3bed-4cfe-9191-551f1ddafcf4"]], \
+   "Text"}]],ExpressionUUID->"0ccfc975-0647-4cd3-aecf-ccc7b76b92c8"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -142,7 +142,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1870746644,ExpressionUUID->"b6c35e39-8dad-4956-911c-9239ddfb297a"],
+ CellID->1870746644,ExpressionUUID->"7672b85d-8e64-4922-a2fa-6b263523e78c"],
 
 Cell[CellGroupData[{
 
@@ -167,7 +167,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "ReferencePages"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"7565feae-e727-497a-9510-95e161435426"]], \
+   "Text"}]],ExpressionUUID->"bcb8d630-2ac5-4298-9f17-00cf3b76b7fc"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -178,7 +178,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->330769981,ExpressionUUID->"fad83e8f-8355-4f74-ab2d-c7d380ca34ff"],
+ CellID->330769981,ExpressionUUID->"9b1b2e3b-386f-462a-b410-6d1f475902b2"],
 
 Cell[CellGroupData[{
 
@@ -204,7 +204,7 @@ Cell[TextData[Cell[BoxData[
     "Symbols"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"786e702f-4817-42d6-8577-c7a6dec4a84b"]], \
+   "Text"}]],ExpressionUUID->"ece9d8d4-90ad-4af0-9c63-73b653652f9b"]], \
 "FileManagerDirectory",
  CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 130},
@@ -215,7 +215,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1563392231,ExpressionUUID->"e9033c47-4d5a-44a1-988d-30c9856e3cd7"],
+ CellID->1563392231,ExpressionUUID->"11097b6d-598d-479f-99ad-ac18eb2e9f82"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -241,7 +241,33 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1470805372,ExpressionUUID->"2cea11d5-e44f-465e-9c16-752f874ec241"],
+ CellID->1470805372,ExpressionUUID->"a04d4921-f319-4767-b7d1-cb1fc4c396e3"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"DSLWorkflowSeparators.nb\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Documentation", "English", "ReferencePages", 
+       "Symbols", "DSLWorkflowSeparators.nb"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[4]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Documentation", "English", "ReferencePages", 
+    "Symbols", "DSLWorkflowSeparators.nb"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{92 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 140},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->1373244601,ExpressionUUID->"8309b561-0d73-4f90-97ea-4a4d9ccb91b3"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -267,7 +293,33 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->141626587,ExpressionUUID->"8bc3f7a3-c01d-49a3-a9da-26d04a43c017"]
+ CellID->141626587,ExpressionUUID->"fd5d2fb8-09c2-4d94-9efc-8d452bb4bd84"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"GetDSLWorkflowSeparators.nb\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Documentation", "English", "ReferencePages", 
+       "Symbols", "GetDSLWorkflowSeparators.nb"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[4]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Documentation", "English", "ReferencePages", 
+    "Symbols", "GetDSLWorkflowSeparators.nb"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{92 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 140},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->1115254698,ExpressionUUID->"25ba7af7-198a-4ddd-b7d4-510070bc60f0"]
 }, Open  ]]
 }, Open  ]],
 
@@ -292,7 +344,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Tutorials"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"e0737665-74a9-48dd-af70-2993d73ddc8a"]], \
+   "Text"}]],ExpressionUUID->"74644568-2f85-45ae-b400-d995e7bd6cd7"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -303,7 +355,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->906166833,ExpressionUUID->"0ffe352c-cffb-47b9-8b37-1ad217e23fa1"]
+ CellID->906166833,ExpressionUUID->"9757d810-ddd0-428c-a98f-33893623dc28"]
 }, Open  ]]
 }, Open  ]],
 
@@ -330,7 +382,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Kernel"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"4c76b343-3f1d-4169-9412-3ae9779c6ed6"]], \
+   "Text"}]],ExpressionUUID->"42838160-8b5a-44e3-869f-bee28091d56b"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -341,7 +393,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerKernelIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1658493611,ExpressionUUID->"2cce3015-81b8-4746-9679-3b1c9fab0eee"],
+ CellID->1658493611,ExpressionUUID->"8746e84a-0687-4954-9611-4f62ea5c6b72"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -365,7 +417,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
      Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1903429297,ExpressionUUID->"161e3790-a372-4e5a-b2bb-ca41d8bd7575"],
+ CellID->1903429297,ExpressionUUID->"8de9de85-8907-4d19-9860-4138d2dd52b0"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -389,7 +441,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->2111865664,ExpressionUUID->"19960030-fb6e-495e-9ebc-fd95b93aa826"],
+ CellID->2111865664,ExpressionUUID->"953bb1f1-69ca-4f0b-80b5-0840d900bd24"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -413,7 +465,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
      Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->947161151,ExpressionUUID->"7a7d799f-5c40-486f-a52c-a47d8e2f46e1"]
+ CellID->947161151,ExpressionUUID->"e1612471-c267-4973-893e-52bb504d647d"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -438,7 +490,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
      Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->516497232,ExpressionUUID->"66fb5f69-a6e8-404f-9909-0c08f244ef56"],
+ CellID->516497232,ExpressionUUID->"4413602c-8824-474b-b673-b7dfc86ad914"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -462,7 +514,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPacletInfoIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->640077050,ExpressionUUID->"2e9bba84-b174-4ecc-abdd-9f4d488896e0"],
+ CellID->640077050,ExpressionUUID->"08fde8a0-51d9-4556-89ec-c1b72c663271"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -486,7 +538,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerTXTIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1029391527,ExpressionUUID->"98780116-48cc-46b9-a0bc-c420c843f220"],
+ CellID->1029391527,ExpressionUUID->"deecf7d9-7f53-410b-8119-9dcb503954e1"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -510,13 +562,13 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->855134057,ExpressionUUID->"bca7b349-e307-44a5-a1af-ba3ef83ecca4"],
+ CellID->855134057,ExpressionUUID->"3c110192-6860-4ba4-9ffe-5d299a3a7efd"],
 
 Cell["", "FileManagerBottomSpacer",
  CellGroupingRules->{"SectionGrouping", 100},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1277530275,ExpressionUUID->"b5613303-79c6-44ed-8a14-a96a9c261b81"]
+ CellID->1277530275,ExpressionUUID->"1c4b8df3-7435-49a8-a60e-4475f6be86ad"]
 }, Open  ]]
 }, Open  ]],
 
@@ -972,7 +1024,7 @@ Cell[BoxData[
   ";"}]], "Input", "Excluded",
  TaggingRules->{},
  InitializationCell->True,
- CellLabel->"In[2]:=",
+ CellLabel->"In[3]:=",
  CellID->814364577,ExpressionUUID->"be3e3e09-fc39-4e57-8f4a-42dae9d5ba46"]
 }, Open  ]],
 
@@ -1201,9 +1253,9 @@ Cell[BoxData[
   TagBox[
    DynamicModuleBox[{TypeSystem`NestedGrid`PackagePrivate`$state$$ = <|
     "InitialData" -> <|
-      "WL" -> {"ClCon", "DataReshaping", "LSAMon", "QRMon", "SMRMon", 
-         "Tabular", "TriesWithFrequencies"}, 
-       "Python" -> {"LSAMon", "QRMon", "SMRMon"}, 
+      "WL" -> {
+        "ClCon", "DataReshaping", "LSAMon", "QRMon", "SMRMon", "Tabular", 
+         "TriesWithFrequencies"}, "Python" -> {"LSAMon", "QRMon", "SMRMon"}, 
        "R" -> {"DataReshaping", "LSAMon", "QRMon", "SMRMon"}, 
        "Raku" -> {"DataReshaping", "SMRMon", "TriesWithFrequencies"}|>, 
      "AllowEmbedding" -> True, "InitialShape" -> 
@@ -11596,8 +11648,8 @@ DockedCells->{
                     DateString[
                     TimeZoneConvert[
                     DateObject[
-                    3.976873419841212`16.35211675717904*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    3.976879759029817`16.352117449449608*^9, TimeZone -> 
+                    0]], {"MonthName", " ", "DayShort", ", ", "Year", " ", 
                     "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
                     StandardForm], SingleEvaluation -> True, Evaluator -> 
                    "System"], FontSlant -> Italic, FontColor -> 
@@ -11709,7 +11761,7 @@ stripeText["Your paclet resource is being published"]]& ], "\"\""}},
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "ebdd9523-868e-4861-94fd-f5230b623671", 741278932, 
+                    "9a9acad1-9f4a-4251-b9f6-0a242a7afb16", 741278932, 
                     "FoundUnformattedCode", {"Language"}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     741278932]; Null], TemplateBox[{
@@ -11729,7 +11781,7 @@ stripeText["Your paclet resource is being published"]]& ], "\"\""}},
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "67032840-b5f7-4375-8785-0561fbf1476a", 741278932, 
+                    "5e079d39-b76e-4b3f-9c24-b1d7549b563f", 741278932, 
                     "FoundUnformattedCode", {"Large"}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     741278932]; Null], TemplateBox[{
@@ -11749,7 +11801,7 @@ will display correctly in other sessions\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "6e27f308-4a02-4aa3-b579-1a3a8da7010e", 1427865121, 
+                    "46687f74-e633-48ab-bccf-080624f8e179", 1427865121, 
                     "RasterizeDynamics", {1427865121}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     1427865121]; Null], TemplateBox[{
@@ -11767,13 +11819,13 @@ Consider reducing the size to avoid potential issues.\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Warning", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "76cf7a5c-204e-4db1-923f-b294f62957c4", 248124296, 
+                    "9c53776f-901f-4896-8179-c139b30d226c", 248124296, 
                     "LargeCellBounds/CellArea", <|
                     "Type" -> "area", "CellID" -> 248124296, "CellObject" -> 
                     CellObject[
                     "5d7e3f7d-0b25-4768-8a2a-15d2d93a8b64", 
-                    "1af7a2f5-3634-4bd0-9285-73e9063a50b7"], 
-                    "CellSerialNumber" -> 8531, 
+                    "bf080566-1efc-4daf-b8f1-f752c1cd159e"], 
+                    "CellSerialNumber" -> 2687, 
                     "CellSize" -> {1014.2956521739131`, 547.1683330535506}, 
                     "CellTags" -> {}, "ContentData" -> BoxData, 
                     "ContentDataForm" -> StandardForm, "CursorPosition" -> 
@@ -11781,7 +11833,7 @@ Consider reducing the size to avoid potential issues.\""}, "RowDefault"] :>
                     "ExpressionUUID" -> 
                     "5d7e3f7d-0b25-4768-8a2a-15d2d93a8b64", 
                     "FirstCellInGroup" -> False, "Formatted" -> True, 
-                    "NeedsRendering" -> False, "Position" -> 62, "Rendering" -> 
+                    "NeedsRendering" -> False, "Position" -> 64, "Rendering" -> 
                     False, "Style" -> "Output", "TemplateGroup" -> False, 
                     "TemplateGroupName" -> None, "Area" -> 500000., "Height" -> 
                     750., "Width" -> 2000|>]; 
@@ -11801,13 +11853,13 @@ Consider reducing the size to avoid potential issues.\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Warning", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "c3da4460-602b-4274-9052-510598b999f3", 1959284045, 
+                    "c5a08b29-6a71-4fbf-9f19-c7bc95440567", 1959284045, 
                     "LargeCellBounds/CellArea", <|
                     "Type" -> "area", "CellID" -> 1959284045, "CellObject" -> 
                     CellObject[
                     "57b2ba5e-3dbe-4911-a1d3-5fe73be29d36", 
-                    "1fc96073-da16-48fb-92fb-fd213b7c7084"], 
-                    "CellSerialNumber" -> 8536, 
+                    "c4092ef3-a662-446a-8439-51363285f92c"], 
+                    "CellSerialNumber" -> 2692, 
                     "CellSize" -> {1014.2956521739131`, 582.2374620413706}, 
                     "CellTags" -> {}, "ContentData" -> BoxData, 
                     "ContentDataForm" -> StandardForm, "CursorPosition" -> 
@@ -11815,7 +11867,7 @@ Consider reducing the size to avoid potential issues.\""}, "RowDefault"] :>
                     "ExpressionUUID" -> 
                     "57b2ba5e-3dbe-4911-a1d3-5fe73be29d36", 
                     "FirstCellInGroup" -> False, "Formatted" -> True, 
-                    "NeedsRendering" -> False, "Position" -> 66, "Rendering" -> 
+                    "NeedsRendering" -> False, "Position" -> 68, "Rendering" -> 
                     False, "Style" -> "Output", "TemplateGroup" -> False, 
                     "TemplateGroupName" -> None, "Area" -> 500000., "Height" -> 
                     750., "Width" -> 2000|>]; 
@@ -11835,7 +11887,7 @@ reducing the resolution\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Warning", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "deb13478-ba17-4c41-a2e6-0d906b906433", 296067740, 
+                    "d4cda256-4393-4d9a-98df-71a0b2ce1cda", 296067740, 
                     "HugeRaster", {296067740}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     296067740]; Null]}, Appearance -> None], "BoxID" -> 
@@ -11906,8 +11958,8 @@ reducing the resolution\""}, "RowDefault"] :>
                     Not[
                     FreeQ[
                     DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "2af6ba33-fec7-49a8-9a41-f03d0ed4089d"]]]]]], Appearance -> 
-                   None, BoxID -> "2af6ba33-fec7-49a8-9a41-f03d0ed4089d", 
+                    "47318960-eb26-4ade-a476-8276a416e8be"]]]]]], Appearance -> 
+                   None, BoxID -> "47318960-eb26-4ade-a476-8276a416e8be", 
                    Evaluator -> Automatic, Method -> "Preemptive"], 
                   MouseAppearanceTag["LinkHand"]]}}, 
                GridBoxAlignment -> {
@@ -11935,8 +11987,8 @@ reducing the resolution\""}, "RowDefault"] :>
                     DateString[
                     TimeZoneConvert[
                     DateObject[
-                    3.976873419841212`16.35211675717904*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    3.976879759029817`16.352117449449608*^9, TimeZone -> 
+                    0]], {"MonthName", " ", "DayShort", ", ", "Year", " ", 
                     "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
                     StandardForm], SingleEvaluation -> True, Evaluator -> 
                    "System"], FontSlant -> Italic, FontColor -> 
@@ -12048,7 +12100,7 @@ stripeText["Your paclet resource is being published"]]& ], "\"\""}},
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "ebdd9523-868e-4861-94fd-f5230b623671", 741278932, 
+                    "9a9acad1-9f4a-4251-b9f6-0a242a7afb16", 741278932, 
                     "FoundUnformattedCode", {"Language"}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     741278932]; Null], TemplateBox[{
@@ -12068,7 +12120,7 @@ stripeText["Your paclet resource is being published"]]& ], "\"\""}},
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "67032840-b5f7-4375-8785-0561fbf1476a", 741278932, 
+                    "5e079d39-b76e-4b3f-9c24-b1d7549b563f", 741278932, 
                     "FoundUnformattedCode", {"Large"}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     741278932]; Null], TemplateBox[{
@@ -12088,7 +12140,7 @@ will display correctly in other sessions\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "6e27f308-4a02-4aa3-b579-1a3a8da7010e", 1427865121, 
+                    "46687f74-e633-48ab-bccf-080624f8e179", 1427865121, 
                     "RasterizeDynamics", {1427865121}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     1427865121]; Null], TemplateBox[{
@@ -12106,13 +12158,13 @@ Consider reducing the size to avoid potential issues.\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Warning", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "76cf7a5c-204e-4db1-923f-b294f62957c4", 248124296, 
+                    "9c53776f-901f-4896-8179-c139b30d226c", 248124296, 
                     "LargeCellBounds/CellArea", <|
                     "Type" -> "area", "CellID" -> 248124296, "CellObject" -> 
                     CellObject[
                     "5d7e3f7d-0b25-4768-8a2a-15d2d93a8b64", 
-                    "1af7a2f5-3634-4bd0-9285-73e9063a50b7"], 
-                    "CellSerialNumber" -> 8531, 
+                    "bf080566-1efc-4daf-b8f1-f752c1cd159e"], 
+                    "CellSerialNumber" -> 2687, 
                     "CellSize" -> {1014.2956521739131`, 547.1683330535506}, 
                     "CellTags" -> {}, "ContentData" -> BoxData, 
                     "ContentDataForm" -> StandardForm, "CursorPosition" -> 
@@ -12120,7 +12172,7 @@ Consider reducing the size to avoid potential issues.\""}, "RowDefault"] :>
                     "ExpressionUUID" -> 
                     "5d7e3f7d-0b25-4768-8a2a-15d2d93a8b64", 
                     "FirstCellInGroup" -> False, "Formatted" -> True, 
-                    "NeedsRendering" -> False, "Position" -> 62, "Rendering" -> 
+                    "NeedsRendering" -> False, "Position" -> 64, "Rendering" -> 
                     False, "Style" -> "Output", "TemplateGroup" -> False, 
                     "TemplateGroupName" -> None, "Area" -> 500000., "Height" -> 
                     750., "Width" -> 2000|>]; 
@@ -12140,13 +12192,13 @@ Consider reducing the size to avoid potential issues.\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Warning", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "c3da4460-602b-4274-9052-510598b999f3", 1959284045, 
+                    "c5a08b29-6a71-4fbf-9f19-c7bc95440567", 1959284045, 
                     "LargeCellBounds/CellArea", <|
                     "Type" -> "area", "CellID" -> 1959284045, "CellObject" -> 
                     CellObject[
                     "57b2ba5e-3dbe-4911-a1d3-5fe73be29d36", 
-                    "1fc96073-da16-48fb-92fb-fd213b7c7084"], 
-                    "CellSerialNumber" -> 8536, 
+                    "c4092ef3-a662-446a-8439-51363285f92c"], 
+                    "CellSerialNumber" -> 2692, 
                     "CellSize" -> {1014.2956521739131`, 582.2374620413706}, 
                     "CellTags" -> {}, "ContentData" -> BoxData, 
                     "ContentDataForm" -> StandardForm, "CursorPosition" -> 
@@ -12154,7 +12206,7 @@ Consider reducing the size to avoid potential issues.\""}, "RowDefault"] :>
                     "ExpressionUUID" -> 
                     "57b2ba5e-3dbe-4911-a1d3-5fe73be29d36", 
                     "FirstCellInGroup" -> False, "Formatted" -> True, 
-                    "NeedsRendering" -> False, "Position" -> 66, "Rendering" -> 
+                    "NeedsRendering" -> False, "Position" -> 68, "Rendering" -> 
                     False, "Style" -> "Output", "TemplateGroup" -> False, 
                     "TemplateGroupName" -> None, "Area" -> 500000., "Height" -> 
                     750., "Width" -> 2000|>]; 
@@ -12174,7 +12226,7 @@ reducing the resolution\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Warning", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "deb13478-ba17-4c41-a2e6-0d906b906433", 296067740, 
+                    "d4cda256-4393-4d9a-98df-71a0b2ce1cda", 296067740, 
                     "HugeRaster", {296067740}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     296067740]; Null]}, Appearance -> None], "BoxID" -> 
@@ -12244,8 +12296,8 @@ reducing the resolution\""}, "RowDefault"] :>
                     Not[
                     FreeQ[
                     DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "2af6ba33-fec7-49a8-9a41-f03d0ed4089d"]]]]]], Appearance -> 
-                   None, BoxID -> "2af6ba33-fec7-49a8-9a41-f03d0ed4089d", 
+                    "47318960-eb26-4ade-a476-8276a416e8be"]]]]]], Appearance -> 
+                   None, BoxID -> "47318960-eb26-4ade-a476-8276a416e8be", 
                    Evaluator -> Automatic, Method -> "Preemptive"], 
                   MouseAppearanceTag["LinkHand"]]}}, 
                GridBoxAlignment -> {
@@ -12353,12 +12405,12 @@ reducing the resolution\""}, "RowDefault"] :>
                     TagBox[
                     TemplateBox[{"\"Version\"", "\": \""}, "RowDefault"], 
                     "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"1.0.1\"", "SummaryItem"]}]}, {
+                    TagBox["\"1.0.2\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     TemplateBox[{"\"SubmissionID\"", "\": \""}, "RowDefault"],
                      "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"3032\"", "SummaryItem"]}]}, {
+                    TagBox["\"6304\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     
@@ -12395,31 +12447,30 @@ reducing the resolution\""}, "RowDefault"] :>
                     Dynamic[Typeset`open$$], ImageSize -> Automatic]}, 
                     "SummaryPanel"], DynamicModuleValues :> {}], "]"}], 
                     Short[#, 0.75]& ], 
-                    "OEM6eJztWN1uG0UUjuO/\
-2HHd0AYhuLJWEYgLV2lioOUmOJu4jdS0lsctIITU8e5Ze8Tu7GpmNql5B6645YK3gmt4AB4Bzuyf7X\
-UqBSeIXnhv1trz982Zc853ZKcgtwb08th/A9Ipy/fOuAIRCFBUMZ/\
-jZ6cgKwNfKzglWXrGpHI2ZWVIx/\
-iFVEloWSAl2Sah51ExfQrUJoXvnKLcOZly6jHr3LdDF7T5ZmZeJKBkczgNQIJ67QfA9/\
-ZkuUddCal0N5WCNwKbIBzY2yPlAfqfos72ELzAxY8xwthxUd7tUw4EXLCULxZjlgYIIw1SltUngtmL\
-xum7qp1oUUXWjkOl0jTUkxPFfj/qnfYFu0AIr3vC5+\
-qU2wOQfigsILXe6TFTHg0k2UkSg0Yv8JwgNHgN5QRcOgVbNuMQvZBbOuNvy05pKELIjlHvBgFQQTkm\
-v/Tc5zNJ7ZhKIGrqgrORO3vt9IK6IcXMyFo3VL6HV2xl0so5qIlvk3pfAOZWsYs5p12XjbkHXKUJlR\
-UTdKWk75nqmUfHQNiPgBmrJhnLrBbilofMAyk2oqfxVfYFDRtmKAQ6foWAgdzpYX5NGjwFNp5oCOW+\
-f4kxC3K3O5K+GyqY15d3zumYM4dZUQ2bf+N1b/UE9aJLLcqtKD26fMvGH7/\
-8bKDD2gkTWDP6zCgfPDk2fdcX4oPo+e1I3I+eP4/EN9Hz+5H5YXbiBlGCBS/\
-4GQ9CNaviWNg0EToC61PbZnycF9cjWBGe3D02Isk5FWPG5XwZ67e5YW7kf78dS2VW7KmfQvZOe7uY7\
-+18kyWmpGmkZa4r1CAl48uWQero5gQcGrqKvJ+U/JkCr8u5H48SUvzrp1/\
-nRseW0aeWC8rIZofWvwmyivHy5dnJ6og+NkawP3p00Pm83XEeW+\
-2OPaLtx591HrX3v7Dg4MA57NgdK4c3zfxOkuKlTkk1SBVrKvS4nDti3BSlZ+\
-DM1EqIe1nnioat6084RUBBvqzuJmA0wqgVr41lOc71AaVRSUAtXevXjmpu/vtgc3OulJtzu2TiX+\
-pG4GNzgkPS0nMqn6Lt5yESi8AG+2FJ1sTBji2LE4FJPUCKs1uOXE+5om/ips2b/\
-sdlUBz6wbtbADv6TlzGoe9LlpBZfMEFs5BpxUz2vzCw6fpyZQbOj+41Ba8peAUKrq4p+JYp+\
-AZ4a8YrbCAEsjrkqvHwwf6Dh7eHqWmQcOQxqWHdJJcV43D/8OD2cO0YcYeaAqJ4qyOLGOAW7/\
-AceRgn3uqAPjW+\
-xXZqBVE3tETSXC0mWyPAkdEKwpHL5ATs28tm2UD56oh3sxEwK5b1ZrreTNeb6Qqb6WxLyi99V+xUc+\
-5JI+k3va66+bXy/sIfYPFalC6EpPA9qmf/\
-nt1bbuZupU0a8zRPKjFZt0lJcyzZuw5Ttkk1IThSjmiqrTHP2IWUNEe0SXNxtMc7Ohonk5V8cs35OK\
-uA+E84OnKXKmDr1GZXCu7FNl8zNUlWNhkD+QegB/c+"}, "ClickToCopyTemplate"]}, {
+                    "OEM6eJztWE9vG0UUj+\
+u1HTuuG9ogBCdrFYE4uAqpKS2X4GziNlLTWh63gBBSx7tv7RG7s6uZ2aTmO3DiyoFvBWf4AHwEeLP/\
+7KxTKThB9OC9rLXv32/evPd+T3ZLcnNIzw+\
+DNyDdinzvhCsQoQBFFQs4fnZLsjoMtIJrSOMZk8q9JasjOsEvpEYi2wYpyRaJfJ+\
+K2VOgDil955bl9tGMU5/Zp4ETeaDNb+XmZQJKtkazECSo10EIfHdXVvrUk5BJdzIp+\
+GNwCMKB3V1SGaL/GepsjcAPPfyYIEwcl+WdAeVAwANbBeJiTGOIMLIgFVl7Iphz0Th717QTLarK+\
+mGkVJaGRnqixO9H/\
+eOBYGcI4XVfBFwdc2cIMoiEDaTePz5kyqehJNtpYtDoBZ4ThAavoRyBR2fgyFYSoh9xW2f8bdkxRiK\
+C/BiNXhgCFZRj8o3nAZ9L6odUAlEzD9yNwtnrx2fUiyhmRtZ7kQp8vGI7l1ZPQU0DhzQGAjC3ip0tO\
+O15bMJ94CpLqKxaoCsle89VT3w6AcJ+BMxYLc1YbnUhbmXEfJBiI36aX+\
+Vf0LBpRUKg41cIGMjtPubXouFTYJOphlAZBOcYsyR3emMZeJGCRX15+5ROOHOZHdew9Tde92ZfUD++\
+1LLcjNOjy7di/vHLzyY6rB8xgTWjz4zy4ZNDK/ACIT6In98OxL34+fNAfBM/vx9YH+YnbhIlWPiCn/\
+AwUvMqToQtC6EjsAF1HMYnRXEjhhXjKdxjM5acUjFhXC6WsX5bG9ZG8ffbsVTnxZ75KeXvrLfLxd4u\
+NllqSlpmVua6Qk1imF+2TdJAN0fg0shT5P205E8U+D3Og2SUkPJfP/26MDo2zQG1PVBmPju0/\
+nWQVc2XL0+OVkf0sTmGvfGj/e7DTtd9bHe6zph2Hn/efdTZ+8KG/\
+X33Qdfp2gW8Wea30xQvdUqmQWpYU5HP5cIRk6YwnoE7VzMQ97LOJQ3b0J9wioCCYlndScFohHErXhn\
+LcpyrA8qikpDautavHNW69e+\
+DLcw5ozDndsg0ONeNwCfWFIekredUMUVbzyMkFoEN9sOSrIWDHVsWJwKTeoCU57ccu55xRd8kTVs0/\
+Y/LoDwKwne3ALb1nXiMwyCQLCWz5IJLVinXSpjsf2FgywvkygxcHN1rCl5T8AoUXFtT8A1T8DXw1s1\
+X2EAIZHXINfOz+3v3928OU8sk0dhnUsO6Ti6r5sMHe92bw7VtJh1qCYjjrY4sZoAbvMNT5GGceKsD+\
+tT8FtupHcbd0BZpc7WZbI8BR0Y7jMYek1Nwbi6bFRPlqyPeyUfAvFjWm+\
+l6M11vpitspvMtqbj0XbJTLbgnzbTf9LrqFdfKexf+AEvWomwhJKXvUT3/9+\
+zucjP3qh3SXKR5Uk3IukMMzbFk9ypM2SG1lOBIJaapjsY8ZxdiaI7okNbF0Z7s6GicTlbyyRXn47wC\
+kj/h6NhbqoDNY4ddKrib2HzN1DRd2WQC5B/NMPdK"}, "ClickToCopyTemplate"]}, {
                     "\"\[FilledVerySmallSquare]\"", "\"Resource object:\"", 
                     TemplateBox[{
                     TagBox[
@@ -12751,7 +12802,7 @@ Q8BRDdxjdvuQye1DucjWf0JIPWKN7IrOsDxrw1K9z2ZZizFNiob1pPv/Ab8I51o="},
              DateString[
               TimeZoneConvert[
                DateObject[
-               3.976873419841212`16.35211675717904*^9, TimeZone -> 0]], {
+               3.976879759029817`16.352117449449608*^9, TimeZone -> 0]], {
               "MonthName", " ", "DayShort", ", ", "Year", " ", "Hour12Short", 
                ":", "Minute", " ", "AMPMLowerCase"}], SingleEvaluation -> 
              True, Evaluator -> "System"], FontSlant -> Italic, FontColor -> 
@@ -12839,7 +12890,7 @@ Q8BRDdxjdvuQye1DucjWf0JIPWKN7IrOsDxrw1K9z2ZZizFNiob1pPv/Ab8I51o="},
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Suggestion", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "ebdd9523-868e-4861-94fd-f5230b623671", 741278932, 
+                  "9a9acad1-9f4a-4251-b9f6-0a242a7afb16", 741278932, 
                   "FoundUnformattedCode", {"Language"}]; 
                 DefinitionNotebookClient`PackageScope`seekAfter[741278932]; 
                 Null], Row[{
@@ -12859,7 +12910,7 @@ Q8BRDdxjdvuQye1DucjWf0JIPWKN7IrOsDxrw1K9z2ZZizFNiob1pPv/Ab8I51o="},
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Suggestion", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "67032840-b5f7-4375-8785-0561fbf1476a", 741278932, 
+                  "5e079d39-b76e-4b3f-9c24-b1d7549b563f", 741278932, 
                   "FoundUnformattedCode", {"Large"}]; 
                 DefinitionNotebookClient`PackageScope`seekAfter[741278932]; 
                 Null], Row[{
@@ -12880,7 +12931,7 @@ display correctly in other sessions"}] :>
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Suggestion", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "6e27f308-4a02-4aa3-b579-1a3a8da7010e", 1427865121, 
+                  "46687f74-e633-48ab-bccf-080624f8e179", 1427865121, 
                   "RasterizeDynamics", {1427865121}]; 
                 DefinitionNotebookClient`PackageScope`seekAfter[1427865121]; 
                 Null], Row[{
@@ -12900,20 +12951,20 @@ reducing the size to avoid potential issues."}] :>
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Warning", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "76cf7a5c-204e-4db1-923f-b294f62957c4", 248124296, 
+                  "9c53776f-901f-4896-8179-c139b30d226c", 248124296, 
                   "LargeCellBounds/CellArea", <|
                   "Type" -> "area", "CellID" -> 248124296, "CellObject" -> 
                    CellObject[
                     "5d7e3f7d-0b25-4768-8a2a-15d2d93a8b64", 
-                    "1af7a2f5-3634-4bd0-9285-73e9063a50b7"], 
-                   "CellSerialNumber" -> 8531, 
+                    "bf080566-1efc-4daf-b8f1-f752c1cd159e"], 
+                   "CellSerialNumber" -> 2687, 
                    "CellSize" -> {1014.2956521739131`, 547.1683330535506}, 
                    "CellTags" -> {}, "ContentData" -> BoxData, 
                    "ContentDataForm" -> StandardForm, "CursorPosition" -> 
                    None, "Evaluatable" -> False, "Evaluating" -> False, 
                    "ExpressionUUID" -> "5d7e3f7d-0b25-4768-8a2a-15d2d93a8b64",
                     "FirstCellInGroup" -> False, "Formatted" -> True, 
-                   "NeedsRendering" -> False, "Position" -> 62, "Rendering" -> 
+                   "NeedsRendering" -> False, "Position" -> 64, "Rendering" -> 
                    False, "Style" -> "Output", "TemplateGroup" -> False, 
                    "TemplateGroupName" -> None, "Area" -> 500000., "Height" -> 
                    750., "Width" -> 2000|>]; 
@@ -12935,20 +12986,20 @@ reducing the size to avoid potential issues."}] :>
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Warning", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "c3da4460-602b-4274-9052-510598b999f3", 1959284045, 
+                  "c5a08b29-6a71-4fbf-9f19-c7bc95440567", 1959284045, 
                   "LargeCellBounds/CellArea", <|
                   "Type" -> "area", "CellID" -> 1959284045, "CellObject" -> 
                    CellObject[
                     "57b2ba5e-3dbe-4911-a1d3-5fe73be29d36", 
-                    "1fc96073-da16-48fb-92fb-fd213b7c7084"], 
-                   "CellSerialNumber" -> 8536, 
+                    "c4092ef3-a662-446a-8439-51363285f92c"], 
+                   "CellSerialNumber" -> 2692, 
                    "CellSize" -> {1014.2956521739131`, 582.2374620413706}, 
                    "CellTags" -> {}, "ContentData" -> BoxData, 
                    "ContentDataForm" -> StandardForm, "CursorPosition" -> 
                    None, "Evaluatable" -> False, "Evaluating" -> False, 
                    "ExpressionUUID" -> "57b2ba5e-3dbe-4911-a1d3-5fe73be29d36",
                     "FirstCellInGroup" -> False, "Formatted" -> True, 
-                   "NeedsRendering" -> False, "Position" -> 66, "Rendering" -> 
+                   "NeedsRendering" -> False, "Position" -> 68, "Rendering" -> 
                    False, "Style" -> "Output", "TemplateGroup" -> False, 
                    "TemplateGroupName" -> None, "Area" -> 500000., "Height" -> 
                    750., "Width" -> 2000|>]; 
@@ -12969,7 +13020,7 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Warning", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "deb13478-ba17-4c41-a2e6-0d906b906433", 296067740, 
+                  "d4cda256-4393-4d9a-98df-71a0b2ce1cda", 296067740, 
                   "HugeRaster", {296067740}]; 
                 DefinitionNotebookClient`PackageScope`seekAfter[296067740]; 
                 Null]}, Appearance -> None], "BoxID" -> "WarningCountButton"], 
@@ -13034,8 +13085,8 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                   Not[
                    FreeQ[
                    DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "2af6ba33-fec7-49a8-9a41-f03d0ed4089d"]]]]]], Appearance -> 
-             None, BoxID -> "2af6ba33-fec7-49a8-9a41-f03d0ed4089d"], 
+                    "47318960-eb26-4ade-a476-8276a416e8be"]]]]]], Appearance -> 
+             None, BoxID -> "47318960-eb26-4ade-a476-8276a416e8be"], 
             "LinkHand"]}}, Alignment -> {Left, Baseline}], 
         Grid[{{"", 
            Style[
@@ -13135,12 +13186,12 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                     TagBox[
                     TemplateBox[{"\"Version\"", "\": \""}, "RowDefault"], 
                     "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"1.0.1\"", "SummaryItem"]}]}, {
+                    TagBox["\"1.0.2\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     TemplateBox[{"\"SubmissionID\"", "\": \""}, "RowDefault"],
                      "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"3032\"", "SummaryItem"]}]}, {
+                    TagBox["\"6304\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     
@@ -13178,31 +13229,30 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                     Dynamic[Typeset`open$$], ImageSize -> Automatic]}, 
                     "SummaryPanel"], DynamicModuleValues :> {}], "]"}], 
                    Short[#, 0.75]& ], 
-                  "OEM6eJztWN1uG0UUjuO/\
-2HHd0AYhuLJWEYgLV2lioOUmOJu4jdS0lsctIITU8e5Ze8Tu7GpmNql5B6645YK3gmt4AB4Bzuyf7X\
-UqBSeIXnhv1trz982Zc853ZKcgtwb08th/A9Ipy/fOuAIRCFBUMZ/\
-jZ6cgKwNfKzglWXrGpHI2ZWVIx/\
-iFVEloWSAl2Sah51ExfQrUJoXvnKLcOZly6jHr3LdDF7T5ZmZeJKBkczgNQIJ67QfA9/\
-ZkuUddCal0N5WCNwKbIBzY2yPlAfqfos72ELzAxY8xwthxUd7tUw4EXLCULxZjlgYIIw1SltUngtmL\
-xum7qp1oUUXWjkOl0jTUkxPFfj/qnfYFu0AIr3vC5+\
-qU2wOQfigsILXe6TFTHg0k2UkSg0Yv8JwgNHgN5QRcOgVbNuMQvZBbOuNvy05pKELIjlHvBgFQQTkm\
-v/Tc5zNJ7ZhKIGrqgrORO3vt9IK6IcXMyFo3VL6HV2xl0so5qIlvk3pfAOZWsYs5p12XjbkHXKUJlR\
-UTdKWk75nqmUfHQNiPgBmrJhnLrBbilofMAyk2oqfxVfYFDRtmKAQ6foWAgdzpYX5NGjwFNp5oCOW+\
-f4kxC3K3O5K+GyqY15d3zumYM4dZUQ2bf+N1b/UE9aJLLcqtKD26fMvGH7/\
-8bKDD2gkTWDP6zCgfPDk2fdcX4oPo+e1I3I+eP4/EN9Hz+5H5YXbiBlGCBS/\
-4GQ9CNaviWNg0EToC61PbZnycF9cjWBGe3D02Isk5FWPG5XwZ67e5YW7kf78dS2VW7KmfQvZOe7uY7\
-+18kyWmpGmkZa4r1CAl48uWQero5gQcGrqKvJ+U/JkCr8u5H48SUvzrp1/\
-nRseW0aeWC8rIZofWvwmyivHy5dnJ6og+NkawP3p00Pm83XEeW+\
-2OPaLtx591HrX3v7Dg4MA57NgdK4c3zfxOkuKlTkk1SBVrKvS4nDti3BSlZ+\
-DM1EqIe1nnioat6084RUBBvqzuJmA0wqgVr41lOc71AaVRSUAtXevXjmpu/vtgc3OulJtzu2TiX+\
-pG4GNzgkPS0nMqn6Lt5yESi8AG+2FJ1sTBji2LE4FJPUCKs1uOXE+5om/ips2b/\
-sdlUBz6wbtbADv6TlzGoe9LlpBZfMEFs5BpxUz2vzCw6fpyZQbOj+41Ba8peAUKrq4p+JYp+\
-AZ4a8YrbCAEsjrkqvHwwf6Dh7eHqWmQcOQxqWHdJJcV43D/8OD2cO0YcYeaAqJ4qyOLGOAW7/\
-AceRgn3uqAPjW+\
-xXZqBVE3tETSXC0mWyPAkdEKwpHL5ATs28tm2UD56oh3sxEwK5b1ZrreTNeb6Qqb6WxLyi99V+xUc+\
-5JI+k3va66+bXy/sIfYPFalC6EpPA9qmf/\
-nt1bbuZupU0a8zRPKjFZt0lJcyzZuw5Ttkk1IThSjmiqrTHP2IWUNEe0SXNxtMc7Ohonk5V8cs35OK\
-uA+E84OnKXKmDr1GZXCu7FNl8zNUlWNhkD+QegB/c+"}, "ClickToCopyTemplate"]]}, {
+                  "OEM6eJztWE9vG0UUj+\
+u1HTuuG9ogBCdrFYE4uAqpKS2X4GziNlLTWh63gBBSx7tv7RG7s6uZ2aTmO3DiyoFvBWf4AHwEeLP/\
+7KxTKThB9OC9rLXv32/evPd+T3ZLcnNIzw+\
+DNyDdinzvhCsQoQBFFQs4fnZLsjoMtIJrSOMZk8q9JasjOsEvpEYi2wYpyRaJfJ+\
+K2VOgDil955bl9tGMU5/Zp4ETeaDNb+XmZQJKtkazECSo10EIfHdXVvrUk5BJdzIp+\
+GNwCMKB3V1SGaL/GepsjcAPPfyYIEwcl+WdAeVAwANbBeJiTGOIMLIgFVl7Iphz0Th717QTLarK+\
+mGkVJaGRnqixO9H/\
+eOBYGcI4XVfBFwdc2cIMoiEDaTePz5kyqehJNtpYtDoBZ4ThAavoRyBR2fgyFYSoh9xW2f8bdkxRiK\
+C/BiNXhgCFZRj8o3nAZ9L6odUAlEzD9yNwtnrx2fUiyhmRtZ7kQp8vGI7l1ZPQU0DhzQGAjC3ip0tO\
+O15bMJ94CpLqKxaoCsle89VT3w6AcJ+BMxYLc1YbnUhbmXEfJBiI36aX+\
+Vf0LBpRUKg41cIGMjtPubXouFTYJOphlAZBOcYsyR3emMZeJGCRX15+5ROOHOZHdew9Tde92ZfUD++\
+1LLcjNOjy7di/vHLzyY6rB8xgTWjz4zy4ZNDK/ACIT6In98OxL34+fNAfBM/vx9YH+YnbhIlWPiCn/\
+AwUvMqToQtC6EjsAF1HMYnRXEjhhXjKdxjM5acUjFhXC6WsX5bG9ZG8ffbsVTnxZ75KeXvrLfLxd4u\
+NllqSlpmVua6Qk1imF+2TdJAN0fg0shT5P205E8U+D3Og2SUkPJfP/26MDo2zQG1PVBmPju0/\
+nWQVc2XL0+OVkf0sTmGvfGj/e7DTtd9bHe6zph2Hn/efdTZ+8KG/\
+X33Qdfp2gW8Wea30xQvdUqmQWpYU5HP5cIRk6YwnoE7VzMQ97LOJQ3b0J9wioCCYlndScFohHErXhn\
+LcpyrA8qikpDautavHNW69e+\
+DLcw5ozDndsg0ONeNwCfWFIekredUMUVbzyMkFoEN9sOSrIWDHVsWJwKTeoCU57ccu55xRd8kTVs0/\
+Y/LoDwKwne3ALb1nXiMwyCQLCWz5IJLVinXSpjsf2FgywvkygxcHN1rCl5T8AoUXFtT8A1T8DXw1s1\
+X2EAIZHXINfOz+3v3928OU8sk0dhnUsO6Ti6r5sMHe92bw7VtJh1qCYjjrY4sZoAbvMNT5GGceKsD+\
+tT8FtupHcbd0BZpc7WZbI8BR0Y7jMYek1Nwbi6bFRPlqyPeyUfAvFjWm+\
+l6M11vpitspvMtqbj0XbJTLbgnzbTf9LrqFdfKexf+AEvWomwhJKXvUT3/9+\
+zucjP3qh3SXKR5Uk3IukMMzbFk9ypM2SG1lOBIJaapjsY8ZxdiaI7okNbF0Z7s6GicTlbyyRXn47wC\
+kj/h6NhbqoDNY4ddKrib2HzN1DRd2WQC5B/NMPdK"}, "ClickToCopyTemplate"]]}, {
               "\[FilledVerySmallSquare]", "Resource object:", 
                RawBoxes[
                 TemplateBox[{
@@ -13558,24 +13608,26 @@ Fu6DuJJG2H9mK2QZ3X1Y8rjKVdsLU11Qbnfn/Mae/TiO1RZHs2bny+6Vwq5Sfi8TnHKi+1+K4NOh"]\
   "PacletBuildData" -> {
    "LastBuiltArchive" -> 
     "/Volumes/Macintosh \
-HD/Users/antonov/WL-DSLExamples-paclet/build/AntonAntonov__DSLExamples-1.0.1.\
+HD/Users/antonov/WL-DSLExamples-paclet/build/AntonAntonov__DSLExamples-1.0.2.\
 paclet", "FileHashes" -> ByteArray[CompressedData["
-1:eJwBtAJL/SFib1JiAQAAAKcCAAA4Qzp4nHOU1A1WcslPLs1NzStJLMnMz9N3
+1:eJwB8wIM/SFib1JiAQAAAOYCAAA4Qzp4nHOU1g1WcslPLs1NzStJLMnMz9N3
 zUvPySzO0PfMS0mt0I830EtOK3Zk0g1mC84vLUpOLWbxy89LBXJDEovSU0t8
-vO4KLV2+I0BAN1gNnznFqekgqeJ4QzxmBbPmh658W6hHrFnGeMxK+7dbMU5T
-LFY3WIMYs/TSU/PwmPZWo05A9+kTc91ga+ymBaWmpRal5iWnBiSmpxbrB1fm
-JuXnFOu7BPu4ViTmFuSkFuvlJSFZ4PP84doeq+5VSkghGbp+b+CijV66wXYk
-2eGeWoLbmu0ciUrv1R/EIqzRqfkQtP3eC1PdYC3s1gSnJhYlZ0CCxxSSAFLx
-BM0cTeuus9kXxEkxD2+C+m3d7jDHWVo3WJNI84oz8RhXeZiFS50xqUA3WJcY
-49IyU3NSivXKc/AYeWXRnjuZAd0SusEmxBiZCaJ9U0sSUxJLEvGb/L1eXPSp
-Q0aEbrAeMSbDM4IRHjPlmH79zi/bLkykmeVFmSWpejn5ydl4zLxoPenJBb92
-Vt1gdRxmFqTm5BBZguj/eLT+X+3lUqIMMyJgmNi0GW8ZV4QAU482QcOIKpP4
-9nw0YTAN8CfJQHwFk/G33VX/z9t7kWSgOR4Dw7+vPOzaX26LO4VjGkiguIvd
-yhUeuIELGL/m2I0MKS3JL8pMBJY+QflJpcWgAiikKDGvOAesDK0MEmm4uaFe
-dacVwnz7wEtXu7tdLXSDJbxTi/JSc/RTinN0U2FFWFZxPrLrfFTu98qW2B0L
-RxiAEBGFGoBcBKLkMZ+FQvxOCakbAxG6ESLKSNaX5xdlp+Xkl+sWpxYkFiUC
-PYjpkg0WXtc3zxIORZiFEOENSEzOSS3xzEvLR3NBbVTi/LoPjhwIXQgRQYgu
-38S8zLTU4hL85YPY6tfxie6zogFcw8qETKtM+A==
+Jjb8jC7ZtdxQN1gNnznFqekgqeJ4QzxmBbPmh658W6hHrFnGeMzK3sHKMP/f
+SnfdYA1izNJLT83DY9pbjToB3adPzHWDrbGbFpSallqUmpecGpCYnlqsH1yZ
+m5SfU6zvEuzjWpGYW5CTWqyXl4Rkgc/zh2t7rLpXKSHs8Apdvzdw0UYv3WBX
+Uu0Izy/KTsvJLw9OLUgsSizJL0K3jWvl/M6Lrg6+CNts/6vHH/vtzaMbbEeS
+be6pJbg9tZ0jUem9+oNYhDU6NR+Ctt97Yaob7EGGNQT91XLEcI62l28IwsKV
+nJdbVwn/ztQN1sJuYXBqYlFyBiT2TSHpOxVPzDMuuprzQOSWPinm4csvlXyf
++wuvCpfrBmsSaV5xJh7jTpUU5xlPDQBmP11ijEvLTM1JKdYrz8Fj5JVFe+5k
+BnRL6AabEGNkJoj2TS1JTEksScRv8n3Ls8y8ZXECusF6xJgMz+dGeMyctDt9
+Zb2eLA+RZpYXZZak6uXkJ2fjMfOi9aQnF/zaWXWD1XGYWZCak0NkAan/49H6
+f7WXS4kyzIiAYXt29Is6Lxf20Q3WJmgYUUUu356PJgymAf4kGYiv3DX+trvq
+/3l7L5IMNMdjYOtFsyjeHoN03Ckc00ACpXnsVq7wwA1cwPg1x25kSCmwrMlM
+BJZDQflJpcWgoiikKDGvOAesDK0MEmm4uaFedacVwnz7wEtXu7tdLXSDJbxT
+i/JSc/RTinN0U2FlZlZxPrLrfFTu98qW2B0LRxiAEBGFGoBc5qLkMZ+FQvxO
+CakbAxG6ESLKSNaXQ8tS3WJEYYrukg0WXtc3zxIORZiFEOENSEzOSS3xzEvL
+R3MBu59/zYuJ5n4IXQgRQYgu38S8zLTU4hL85QNve0Lym8/FNQBnzx9Fm69w
+AA==
       "]]}, "Paclet" -> "None", 
   "Openers" -> {"ExampleSection" -> {"5" -> Closed}}},
 CreateCellID->True,

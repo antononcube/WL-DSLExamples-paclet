@@ -7,7 +7,7 @@ PacletObject[
     "Creator" -> "Anton Antonov",
     "License" -> "MIT",
     "PublisherID" -> "AntonAntonov",
-    "Version" -> "1.0.1",
+    "Version" -> "1.0.2",
     "WolframVersion" -> "12.1+",
     "PrimaryContext" -> "AntonAntonov`DSLExamples`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
@@ -18,7 +18,9 @@ PacletObject[
         "Context" -> {"AntonAntonov`DSLExamples`"},
         "Symbols" -> {
           "AntonAntonov`DSLExamples`DSLExamples",
-          "AntonAntonov`DSLExamples`GetDSLExamples"
+          "AntonAntonov`DSLExamples`DSLWorkflowSeparators",
+          "AntonAntonov`DSLExamples`GetDSLExamples",
+          "AntonAntonov`DSLExamples`GetDSLWorkflowSeparators"
         }
       },
       {
