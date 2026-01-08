@@ -1,7 +1,7 @@
 {
   "Python": {
     "SMRMon": "\n.",
-    "DataReshaping": "\n",
+    "pandas": "\n",
     "LSAMon": "\n.",
     "QRMon": "\n."
   },
@@ -19,6 +19,7 @@
   },
   "WL": {
     "DataReshaping": ";\n",
+    "Tabular": ";\n",
     "LSAMon": "⟹\n",
     "SMRMon": "⟹\n",
     "QRMon": "⟹\n"
