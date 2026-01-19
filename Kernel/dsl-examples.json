@@ -118,7 +118,7 @@
       "show the columns types of tblTrees": "ColumnType[tblTrees]",
       "categorize the column passengerSex": "obj = CastColumns[obj, \"passengerSex\" -> \"Categorical\"]",
       "drop the columns passengerAge and passengerSex": "obj = DeleteColumns[obj, {\"passengerAge\", \"passengerSex\"}]",
-      "rename columns passengerAge as age, passengerSex as sex, passengerClass as class": "obj = (Join[KeyDrop[#1, {\"passengerAge\", \"passengerSex\", \"passengerClass\"}], Association[\"age\" -> #1[\"passengerAge\"], \"sex\" -> #1[\"passengerSex\"], \"class\" -> #1[\"passengerClass\"]]] &) /@ obj",
+      "rename columns passengerAge as age, passengerSex as sex, and passengerClass as class": "obj = RenameColumns[obj, {\"passengerAge\" -> \"age\", \"passengerSex\" -> \"sex\", \"passengerClass\" -> \"class\"}]",
       "filter by passengerAge greater than 12": "obj = Select[obj, #1[\"passengerAge\"] > 12 &]",
       "group by passengerSex and passengerClass": "obj = GroupBy[obj, {#1[\"passengerSex\"], #1[\"passengerClass\"]} &];",
       "show aggregate values of (Mean @ #passengerAge) over the columns passengerSex and passengerSurvival": "Echo @ AggregateRows[obj, {\"mean\" -> (Mean @ #passengerAge] &)}, {\"passengerSex\",\n   \"passengerClass\"}]",
