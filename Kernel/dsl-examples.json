@@ -138,7 +138,9 @@
       "split the column name over PAT into the columns maker and model": "obj = TransformColumns[obj, {\"maker\", \"model\"} -> Function[StringSplit[#name, 2]]]",
       "split the column name over PAT into the columns maker and model and drop name": "obj = TransformColumns[obj, {\"maker\", \"model\"} -> Function[StringSplit[#name, 2]], \"name\" -> Nothing]",
       "combine the columns latitude and longitude with FUNC into the column geoLocation": "obj = TransformColumns[obj, \"geoLocation\" -> FUNC[#latitude, #longitude]]",
-      "combine the columns latitude and longitude of tblTrees using FUNC into the column geoLocation": "tblTrees = TransformColumns[tblTrees, \"geoLocation\" -> FUNC[#latitude, #longitude]]"
+      "combine the columns latitude and longitude of tblTrees using FUNC into the column geoLocation": "tblTrees = TransformColumns[tblTrees, \"geoLocation\" -> FUNC[#latitude, #longitude]]",
+      "transform elementwise using the function FF12": "obj = ToTabular @ Elementwise[FF12][obj]",
+      "transform elementwise using the function QuantityMagnitude if the element is satisfies QuantityQ": "obj = ToTabular@\n  Elementwise[If[QuantityQ[#], QuantityMagnitude[#], #] &][obj]"
     },
     "TriesWithFrequencies": {
       "load tries with frequencies package": "Needs[\"AntonAntonov`TriesWithFrequencies`\"]",
@@ -245,7 +247,9 @@
       "split the column name over PAT into the columns maker and model": "obj[['maker', 'model']] = obj['name'].str.split(pat='PAT', n=1, expand=True)",
       "split the column name over PAT into the columns maker and model and drop name": "obj[['maker', 'model']] = obj['name'].str.split(pat='PAT', n=1, expand=True); obj = obj.drop(columns=['name'])",
       "combine the columns latitude and longitude with FUNC into the column geoLocation": "obj['geoLocation'] = obj.apply(lambda row: FUNC(row['latitude'], row['longitude']), axis=1)",
-      "combine the columns latitude and longitude of tblTrees using FUNC into the column geoLocation": "tblTrees['geoLocation'] = tblTrees.apply(lambda row: FUNC(row['latitude'], row['longitude']), axis=1)"
+      "combine the columns latitude and longitude of tblTrees using FUNC into the column geoLocation": "tblTrees['geoLocation'] = tblTrees.apply(lambda row: FUNC(row['latitude'], row['longitude']), axis=1)",
+      "transform elementwise using the function FF12": "obj = obj.applymap(FF12)",
+      "transform elementwise using the function QuantityMagnitude if the element is satisfies QuantityQ": "obj = obj.applymap(lambda x: QuantityMagnitude(x) if QuantityQ(x) else x)"
     }
   },
   "R": {
